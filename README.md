@@ -7,6 +7,11 @@ The dashboard is designed for stakeholder use and enables interactive filtering 
 
 ---
 
+## Live Dashboard
+View the interactive dashboard on Tableau Public: https://public.tableau.com/shared/4RNTW633G?:display_count=n&:origin=viz_share_link
+
+---
+
 ![Dashboard Overview](ba_dashboard_overview.png)
 
 
@@ -27,16 +32,16 @@ The dashboard is designed for stakeholder use and enables interactive filtering 
 
 ---
 
-## Dashboard Interactivity
-![Segmentation View](ba_dashboard_segmentation.png)
-
----
-
 ## Business Questions Answered
 - How has customer-perceived value changed over time?
 - Which countries report higher or lower satisfaction?
 - How do different aircraft types compare in terms of passenger value ratings?
 - Which service dimensions (seat comfort, food, entertainment, ground service) score lowest?
+
+---
+
+## Dashboard Interactivity
+![Segmentation View](ba_dashboard_segmentation.png)
 
 ---
 ## Data Sources
@@ -49,12 +54,6 @@ The dashboard is designed for stakeholder use and enables interactive filtering 
 - Tableau Desktop
 - CSV datasets
 - Calculated fields, parameters, filters, and dashboard actions
-
----
-
-## How to View the Dashboard
-1. Download the `.twbx` file
-2. Open using Tableau Desktop or Tableau Public
 
 ---
 
