@@ -8,7 +8,7 @@ The dashboard is designed for stakeholder use and enables interactive filtering 
 ---
 
 ## Live Dashboard
-View the interactive dashboard on Tableau Public: https://public.tableau.com/shared/PTTTPCG6R?:display_count=n&:origin=viz_share_link
+View the interactive dashboard on Tableau Public: https://public.tableau.com/views/BritishAirwaysReviewDashboard_17671369450550/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
